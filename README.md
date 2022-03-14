@@ -21,6 +21,7 @@
 
 
 ## ⚙ Spreadsheet description and how to use
+**TIP: For easier orientation I recommend to use the filtering option next to the column labels.**
 
 ### 🖊️ Notes of my project
 
