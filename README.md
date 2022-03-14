@@ -4,8 +4,8 @@
 
 
 
-<h2 style="text-align: center;" target="_blank">THE LATEST SPREADSHEET IS <br />
-<a href="https://docs.google.com/spreadsheets/d/1G5iAMbkIZQwHxUZ68moREjuTUD9Nz1lY/edit?usp=sharing&amp;ouid=104117058052427504938&amp;rtpof=true&amp;sd=true">👉HERE👈</a>
+<h2 align="center">THE LATEST SPREADSHEET IS <br />
+<a target="_blank" href="https://docs.google.com/spreadsheets/d/1G5iAMbkIZQwHxUZ68moREjuTUD9Nz1lY/edit?usp=sharing&amp;ouid=104117058052427504938&amp;rtpof=true&amp;sd=true">👉HERE👈</a>
 </h2>
 
 
