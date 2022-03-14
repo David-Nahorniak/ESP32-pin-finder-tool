@@ -4,12 +4,9 @@
 
 
 
-<div style="text-align: center;">
-<h2>
-THE LATEST SPREADSHEET IS <br>
-<a href="https://docs.google.com/spreadsheets/d/1G5iAMbkIZQwHxUZ68moREjuTUD9Nz1lY/edit?usp=sharing&ouid=104117058052427504938&rtpof=true&sd=true">👉HERE👈</a>
+<h2 style="text-align: center;" target="_blank">THE LATEST SPREADSHEET IS <br />
+<a href="https://docs.google.com/spreadsheets/d/1G5iAMbkIZQwHxUZ68moREjuTUD9Nz1lY/edit?usp=sharing&amp;ouid=104117058052427504938&amp;rtpof=true&amp;sd=true">👉HERE👈</a>
 </h2>
-</div>
 
 
 
@@ -122,7 +119,7 @@ If you don't want ESP32 to boot for some reason, or you don't want HIGH on the G
 
 ## 👍 License
 
-Licensed under the [MIT license]([ESP32-pin-finder-tool/LICENSE at main · David-Nahorniak/ESP32-pin-finder-tool · GitHub](https://github.com/David-Nahorniak/ESP32-pin-finder-tool/blob/main/LICENSE)).
+Licensed under the [MIT license](https://github.com/David-Nahorniak/ESP32-pin-finder-tool/blob/main/LICENSE).
 
 
 
@@ -132,6 +129,6 @@ Licensed under the [MIT license]([ESP32-pin-finder-tool/LICENSE at main · David
 
 THE AUTHOR OF THIS PROJECT DOES NOT HAVE AN ELECTRICAL ENGINEERING BACKGROUND!
 THIS PROJECT IS BASED ON INFORMATION COLLECTED ON THE INTERNET.
-This project was created as part of a [final project]([David-Nahorniak/LED-spotlight-100W-RGB · GitHub](https://github.com/David-Nahorniak/LED-spotlight-100W-RGB)) in the last year of high school in the field of information technology.
+This project was created as part of a [final project](https://github.com/David-Nahorniak/LED-spotlight-100W-RGB) in the last year of high school in the field of information technology.
 
 **Your experience is very welcome!**
