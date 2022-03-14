@@ -119,7 +119,7 @@ If you don't want ESP32 to boot for some reason, or you don't want HIGH on the G
 
 ## 👍 License
 
-Licensed under the [MIT license](https://github.com/David-Nahorniak/ESP32-pin-finder-tool/blob/main/LICENSE).
+Licensed under the [CC0-1.0 License](https://github.com/David-Nahorniak/ESP32-pin-finder-tool/blob/main/LICENSE).
 
 
 
